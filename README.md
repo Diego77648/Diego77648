@@ -3,8 +3,7 @@
 
 
 ### Hi there, I am Diego Flores 👋
-[![Linkedin Badge](https://img.shields.io/badge/Diego-Flores-Valbuena?logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdiego-flores-valbuena-982a85209%2F
-/)](https://www.linkedin.com/in/diego-flores-valbuena-982a85209/)
+[![Linkedin Badge](https://img.shields.io/badge/Diego-Flores-Valbuena?logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdiego-flores-valbuena-982a85209%2F/)](https://www.linkedin.com/in/diego-flores-valbuena-982a85209/)
 
 - 🎯 Portfolio website: [Portfolio](https://diego.havencloud.es/)
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
