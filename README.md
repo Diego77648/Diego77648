@@ -40,7 +40,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Unraid](https://img.shields.io/badge/unraid-%23F15A2C.svg?style=for-the-badge&logo=unraid&logoColor=white)
-![LOCALHOST]https://img.shields.io/badge/LOCALHOST-%230511FA.svg?style=for-the-badge&logo=localhost&logoColor=white
+![LOCALHOST](https://img.shields.io/badge/LOCALHOST-%230511FA.svg?style=for-the-badge&logo=localhost&logoColor=white)
 
 
 <div align="center">
